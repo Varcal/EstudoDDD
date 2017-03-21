@@ -5,10 +5,23 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Entities\Base\**" />
+    <Compile Remove="ValueObjects\Base\**" />
+    <EmbeddedResource Remove="Entities\Base\**" />
+    <EmbeddedResource Remove="ValueObjects\Base\**" />
+    <None Remove="Entities\Base\**" />
+    <None Remove="ValueObjects\Base\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="Contracts\Services\" />
     <Folder Include="Contracts\Repositories\" />
-    <Folder Include="Entities\Base\" />
-    <Folder Include="ValueObjects\Base\" />
+    <Folder Include="Entities\" />
+    <Folder Include="ValueObjects\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SharedKernel\SharedKernel.csproj" />
   </ItemGroup>
 
 </Project>
