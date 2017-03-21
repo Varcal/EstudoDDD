@@ -1,7 +1,0 @@
-d:\cleber\documents\visual studio 2017\Projects\EstudoDDD\src\SharedKernel\bin\Debug\netstandard1.6.1\SharedKernel.deps.json
-d:\cleber\documents\visual studio 2017\Projects\EstudoDDD\src\SharedKernel\bin\Debug\netstandard1.6.1\SharedKernel.dll
-d:\cleber\documents\visual studio 2017\Projects\EstudoDDD\src\SharedKernel\obj\Debug\netstandard1.6.1\SharedKernel.csprojResolveAssemblyReference.cache
-d:\cleber\documents\visual studio 2017\Projects\EstudoDDD\src\SharedKernel\obj\Debug\netstandard1.6.1\SharedKernel.AssemblyInfo.cs
-d:\cleber\documents\visual studio 2017\Projects\EstudoDDD\src\SharedKernel\bin\Debug\netstandard1.6.1\SharedKernel.pdb
-d:\cleber\documents\visual studio 2017\Projects\EstudoDDD\src\SharedKernel\obj\Debug\netstandard1.6.1\SharedKernel.dll
-d:\cleber\documents\visual studio 2017\Projects\EstudoDDD\src\SharedKernel\obj\Debug\netstandard1.6.1\SharedKernel.pdb
