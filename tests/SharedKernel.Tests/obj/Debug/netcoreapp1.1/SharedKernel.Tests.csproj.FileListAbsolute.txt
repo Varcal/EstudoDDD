@@ -1,0 +1,14 @@
+d:\cleber\documents\visual studio 2017\Projects\EstudoDDD\tests\SharedKernel.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+d:\cleber\documents\visual studio 2017\Projects\EstudoDDD\tests\SharedKernel.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+d:\cleber\documents\visual studio 2017\Projects\EstudoDDD\tests\SharedKernel.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+d:\cleber\documents\visual studio 2017\Projects\EstudoDDD\tests\SharedKernel.Tests\bin\Debug\netcoreapp1.1\SharedKernel.Tests.deps.json
+d:\cleber\documents\visual studio 2017\Projects\EstudoDDD\tests\SharedKernel.Tests\bin\Debug\netcoreapp1.1\SharedKernel.Tests.runtimeconfig.json
+d:\cleber\documents\visual studio 2017\Projects\EstudoDDD\tests\SharedKernel.Tests\bin\Debug\netcoreapp1.1\SharedKernel.Tests.runtimeconfig.dev.json
+d:\cleber\documents\visual studio 2017\Projects\EstudoDDD\tests\SharedKernel.Tests\bin\Debug\netcoreapp1.1\SharedKernel.Tests.dll
+d:\cleber\documents\visual studio 2017\Projects\EstudoDDD\tests\SharedKernel.Tests\bin\Debug\netcoreapp1.1\SharedKernel.Tests.pdb
+d:\cleber\documents\visual studio 2017\Projects\EstudoDDD\tests\SharedKernel.Tests\bin\Debug\netcoreapp1.1\SharedKernel.dll
+d:\cleber\documents\visual studio 2017\Projects\EstudoDDD\tests\SharedKernel.Tests\bin\Debug\netcoreapp1.1\SharedKernel.pdb
+d:\cleber\documents\visual studio 2017\Projects\EstudoDDD\tests\SharedKernel.Tests\obj\Debug\netcoreapp1.1\SharedKernel.Tests.csprojResolveAssemblyReference.cache
+d:\cleber\documents\visual studio 2017\Projects\EstudoDDD\tests\SharedKernel.Tests\obj\Debug\netcoreapp1.1\SharedKernel.Tests.AssemblyInfo.cs
+d:\cleber\documents\visual studio 2017\Projects\EstudoDDD\tests\SharedKernel.Tests\obj\Debug\netcoreapp1.1\SharedKernel.Tests.dll
+d:\cleber\documents\visual studio 2017\Projects\EstudoDDD\tests\SharedKernel.Tests\obj\Debug\netcoreapp1.1\SharedKernel.Tests.pdb
