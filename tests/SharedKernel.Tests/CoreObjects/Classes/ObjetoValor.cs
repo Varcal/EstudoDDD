@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using SharedKernel.BaseObjects;
+﻿using SharedKernel.BaseObjects;
 
 namespace SharedKernel.Tests.CoreObjects.Classes
 {

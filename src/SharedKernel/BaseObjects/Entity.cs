@@ -14,12 +14,12 @@ namespace SharedKernel.BaseObjects
             DataCadastro = DateTime.Now;
         }
 
-        public void Ativar()
+        public virtual void Ativar()
         {
             Ativo = true;
         }
 
-        public void Desativar()
+        public virtual void Desativar()
         {
             Ativo = false;
         }

@@ -47,6 +47,7 @@ namespace SharedKernel.BaseObjects
             return true;
         }
 
+        #region Overrides
         public override bool Equals(object obj)
         {
             if (ReferenceEquals(null, obj)) return false;
@@ -92,6 +93,7 @@ namespace SharedKernel.BaseObjects
             }
 
             return fields;
-        }
+        } 
+        #endregion
     }
 }
