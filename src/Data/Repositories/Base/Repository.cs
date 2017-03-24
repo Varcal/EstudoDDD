@@ -1,13 +1,13 @@
 ﻿using System.Collections.Generic;
 using Data.Contexts;
-using Domain.Contracts.Repositories;
+using Domain.Contracts.Repositories.Base;
 using SharedKernel.BaseObjects;
 
 namespace Data.Repositories.Base
 {
     public class Repository<T> : IRepositoryBase<T> where T: Entity
     {
-        private readonly EfContext _context;
+        protected EfContext _context;
 
         public Repository(EfContext context)
         {

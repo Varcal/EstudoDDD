@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using SharedKernel.BaseObjects;
 
-namespace Domain.Contracts.Repositories
+namespace Domain.Contracts.Repositories.Base
 {
     public interface IRepositoryBase<T> where T: Entity
     {

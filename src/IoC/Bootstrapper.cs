@@ -1,4 +1,8 @@
-﻿using Data.Contexts;
+﻿using Application.Contracts;
+using Application.Services;
+using Data.Contexts;
+using Data.Repositories;
+using Domain.Contracts.Repositories;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace IoC
@@ -7,6 +11,10 @@ namespace IoC
     {
         public static void Register(IServiceCollection services)
         {
+            services.AddScoped<IPessoaAppService, PessoaAppService>();
+
+            services.AddScoped<IPessoaRepository, PessoaRepository>();
+
             services.AddDbContext<EfContext>();
         }
     }

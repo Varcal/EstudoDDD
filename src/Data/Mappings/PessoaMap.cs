@@ -16,8 +16,12 @@ namespace Data.Mappings
 
                 config.Property(x => x.Nome)
                     .HasColumnName("Nome")
-                    .HasColumnType("varchar(250)")
+                    .HasColumnType("varchar(100)")
                     .IsRequired();
+                config.Property(x => x.Sobrenome)
+                   .HasColumnName("Nome")
+                   .HasColumnType("varchar(100)")
+                   .IsRequired();
                 config.Property(x => x.DataNascimento)
                     .HasColumnName("DataNascimento")
                     .HasColumnType("date")
